@@ -45,7 +45,7 @@ NewsAlchemyはOpenAI APIを活用し、特定のキーワードに関連する�
 
 1. リポジトリをクローン
 ```bash
-git clone https://github.com/yourusername/newsalchemy.git
+git clone https://github.com/tanuu5/newsalchemy.git
 ```
 
 2. ディレクトリに移動
